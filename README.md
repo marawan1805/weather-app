@@ -1,1 +1,1 @@
-A Flutter weather app using the Fluter API.
+A Flutter weather app using weather API.
